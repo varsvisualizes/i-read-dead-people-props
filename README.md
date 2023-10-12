@@ -13,8 +13,9 @@ https://github.com/varsvisualizes/i-read-dead-people-props/assets/47091936/6dacf
 
 This is a work in progress. Here's what the prototype is currently looking like, as of 10/11:
 
-![IMG_3943](https://github.com/varsvisualizes/i-read-dead-people-props/assets/47091936/ea1aee53-45ec-4382-a373-4838a7589993)
-![IMG_3944](https://github.com/varsvisualizes/i-read-dead-people-props/assets/47091936/44477fc2-c376-40d8-9583-306d840617da)
+![IMG_3944](https://github.com/varsvisualizes/i-read-dead-people-props/assets/47091936/69d85e7d-c9af-4cb4-b51a-bbeb64f6e4c1)
+![IMG_3943](https://github.com/varsvisualizes/i-read-dead-people-props/assets/47091936/b3ea65b1-4ec2-479e-a6a3-f87cc11cc55b)
+
 
 I assembled this using:
 
