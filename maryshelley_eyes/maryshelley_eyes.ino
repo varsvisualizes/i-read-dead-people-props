@@ -23,9 +23,8 @@ void setup() {
 
 void loop() {
 
-  // randomly choose a position within a 15 degree range
-//  pos = random(35,42);
-  pos = 60;
+  // randomly choose a position within a 7 degree range
+  pos = random(35,42);
   myservo.write(pos);
 
   // Serial print to confirm position
